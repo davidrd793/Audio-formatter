@@ -1,11 +1,20 @@
-# Speech-recognition-for-studying 
-A simple speech recognition program with some keywords to format the output text.
-The program output generates **HTML** code, the use of this tool is based on opening the html, offering the text already formatted according to the keywords listed here.
+# Audio formatter
+- - -
+A simple speech recognition program with keywords to format the output text.
+The program  generates a **Markdown** (.md) file with formatted text, ready to copy and paste into your notes or summaries.
+
+## Manual
+- - - 
+> [Advice]
+> Taking a short pause at the speaking after saying the keyword at the begining of a sentence can slightly reduce the chance of errors.
 
 ## Keywords
-- Título : makes the following text larger and bolder.
-- Empieza enumeración : starts a numbered list.
-- Termina enumeración : ends a started numbered list.
+- - - 
+Saying these words at the start or during the speech sentence will format the text accordingly.
 
-* This is an earlier version of the program with only some of the utilities  *
-Actual Version: **0.0** 
+
+
+## Project Status
+- - - 
+-  Version: **0.0**
+- [License](https://github.com/davidrd793/Audio-formatter/blob/main/LICENSE)
