@@ -12,5 +12,5 @@ Saying these words at the start or during the speech sentence will format the te
 
 
 ## Project Status
--  Version: **0.0**
+-  Version: **0.1**
 - [License](https://github.com/davidrd793/Audio-formatter/blob/main/LICENSE)
